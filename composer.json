@@ -1,0 +1,8 @@
+{
+    "name": "qrcode/prj",
+    "description": "a sample prj",
+    "license": "mit",
+    "minimum-stability": "beta",
+    "autoload": {},
+    "require": {}
+}
