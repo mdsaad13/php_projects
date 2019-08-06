@@ -59,7 +59,7 @@
 
 <?php } else {?>
 
-<form method="post" action="test_display.php">
+<form method="post" action="action.php">
 <table class="table table-hover">
 <tr>
     <td>Chocolate Name</td>
